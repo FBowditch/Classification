@@ -9,8 +9,8 @@ Objective is to predict if a player would be a top 25 finisher in the Masters. A
  
 - **pgatour.com**
 	- Golf Player Statistics (1980-2009)
-- **8 Main Features
-	- # of Top 10's Made (STD)
+- **8 Main Features**
+	- Number of Top 10's Made (STD)
 	- Rank for Percent of Holes Better Than Par
 	- Ranking for Total Money Earned (STD)
 	- Percent of Greens Hit in Regulation
@@ -36,6 +36,6 @@ Objective is to predict if a player would be a top 25 finisher in the Masters. A
    - Out of all the predictions the model made 70% were correct
    - Improve F1 score
    - Statistics going back to 1980 were limited - Look at more recent years where more stats are available
-   - Incorportate a parameter that accounts for a player's past PGA Master Tournament finishes/Major 	        finishes
+   - Incorportate a parameter that accounts for a player's past PGA Master Tournament finishes/Major finishes
 
    
