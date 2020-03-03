@@ -7,7 +7,7 @@ Objective is to predict if a player would be a top 25 finisher in the Masters. A
 
 ## Data:
 
-![Screenshot] (https://github.com/FBowditch/Classification/blob/master/pga_charts/Stats.png)
+! [Screenshot](https://github.com/FBowditch/Classification/blob/master/pga_charts/Stats.png)
  
 - **pgatour.com**
 	- Golf Player Statistics (1980-2009)
@@ -30,7 +30,7 @@ Objective is to predict if a player would be a top 25 finisher in the Masters. A
    
 ## Baseline Model
 
-![Screenshot] (https://github.com/FBowditch/Classification/blob/master/pga_charts/baseline.png)
+! [Screenshot](https://github.com/FBowditch/Classification/blob/master/pga_charts/baseline.png)
 
 ## Models Tested
 
@@ -40,7 +40,7 @@ Objective is to predict if a player would be a top 25 finisher in the Masters. A
  
 ## Conclusion & Going Forward
 
-![Screenshot] (https://github.com/FBowditch/Classification/blob/master/pga_charts/roc_curve.png)
+! [Screenshot](https://github.com/FBowditch/Classification/blob/master/pga_charts/roc_curve.png)
 
    - Logistic Regression performed the best
    - Out of all the predictions the model made 70% were correct
