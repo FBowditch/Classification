@@ -6,6 +6,8 @@
 Objective is to predict if a player would be a top 25 finisher in the Masters. All statistics/rankings are aggregated from a player’s performance in every PGA Tournament played leading up until the Masters Tournament that year. Data was scraped from 1980-2019. 
 
 ## Data:
+
+![Screenshot] (https://github.com/FBowditch/Classification/blob/master/pga_charts/Stats.png)
  
 - **pgatour.com**
 	- Golf Player Statistics (1980-2009)
@@ -25,13 +27,21 @@ Objective is to predict if a player would be a top 25 finisher in the Masters. A
    - Seaborn/Matplotlib
    - SciPy/NumPy
    - Scikit-learn
+   
+## Baseline Model
+
+![Screenshot] (https://github.com/FBowditch/Classification/blob/master/pga_charts/baseline.png)
 
 ## Models Tested
+
    - Logistic Regression
    - Randorm Forest Regression
    - Support Vector Machine
  
 ## Conclusion & Going Forward
+
+![Screenshot] (https://github.com/FBowditch/Classification/blob/master/pga_charts/roc_curve.png)
+
    - Logistic Regression performed the best
    - Out of all the predictions the model made 70% were correct
    - Improve F1 score
